@@ -1,0 +1,9 @@
+[submodule "submodule/frunzik"]
+	path = submodule/frunzik
+	url = https://github.com/kanghua1981/frunzik.git
+[submodule "submodule/Cello"]
+	path = submodule/Cello
+	url = https://github.com/kanghua1981/Cello.git
+[submodule "submodule/ragel"]
+	path = submodule/ragel
+	url = https://github.com/kanghua1981/ragel.git
