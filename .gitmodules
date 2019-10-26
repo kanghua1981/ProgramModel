@@ -7,3 +7,6 @@
 [submodule "submodule/ragel"]
 	path = submodule/ragel
 	url = https://github.com/kanghua1981/ragel.git
+[submodule "submodule/mpc"]
+	path = submodule/mpc
+	url = https://github.com/kanghua1981/mpc.git
