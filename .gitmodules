@@ -10,3 +10,6 @@
 [submodule "submodule/mpc"]
 	path = submodule/mpc
 	url = https://github.com/kanghua1981/mpc.git
+[submodule "submodule/BuildYourOwnLisp"]
+	path = submodule/BuildYourOwnLisp
+	url = https://github.com/kanghua1981/BuildYourOwnLisp.git
